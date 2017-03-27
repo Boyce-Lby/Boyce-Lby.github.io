@@ -7,7 +7,7 @@ description: "blog，博客"
 keyword: "刘博弈"
 url: "https://curselby.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-page:["about","tags"]
+page: ["about","tags"]
 
 
 # SNS settings
