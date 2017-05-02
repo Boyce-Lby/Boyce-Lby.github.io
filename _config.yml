@@ -1,11 +1,11 @@
 # Site settings
-title: Lby Blog
-SEOTitle: 刘博弈的博客 | Lby Blog
+title: Boyce
+SEOTitle: 刘博弈的博客 | Boyce
 header-img: img/home-bg.jpg
-email: curselby@hotmail.com
-description: "blog，博客"
+email: Boyce.Lby@gmail.com
+description: "blog,博客,Boyce"
 keyword: "刘博弈"
-url: "https://curselby.github.io"              # your host, for absolute URL
+url: "https://Boyce-Lby.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 pages: [
   {
@@ -21,9 +21,9 @@ pages: [
 
 # SNS settings
 RSS: false
-weibo_username:     curselby
+weibo_username:     Boyce-Lby
 #zhihu_username:     huxpro
-github_username:    curselby
+github_username:    Boyce-Lby
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -75,7 +75,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "写写代码，<br>什么都没变，改变的只是时间"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
